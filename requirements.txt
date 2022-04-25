@@ -3,4 +3,5 @@ keras
 numpy
 opencv_python
 tensorflow-cpu
+gunicorn
 tqdm
