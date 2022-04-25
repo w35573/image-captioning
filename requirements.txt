@@ -2,5 +2,5 @@ Flask
 keras
 numpy
 opencv_python
-tensorflow
+tensorflow-cpu
 tqdm
